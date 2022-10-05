@@ -21,3 +21,5 @@ Submit work using the [submission form](https://docs.google.com/forms/d/e/1FAIpQ
 * [JS for Experienced Devs](https://youtu.be/osIa4TecYBQ)
 * [Intro to Express](https://youtu.be/EkWhTyvS-is)
 * [Vocab Review](https://youtu.be/x73xtu9tJT0)
+* [Express & Knex](https://youtu.be/hB1ULtCm_rs)
+* [Course Review](https://youtu.be/2wZInxmeb1o)
