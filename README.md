@@ -15,3 +15,9 @@ Submit work using the [submission form](https://docs.google.com/forms/d/e/1FAIpQ
 * [JavaScript and TypeScript](/js)
 * [Node and Express](/node)
 * [Testing](/testing)
+
+## Session Videos
+
+* [JS for Experienced Devs](https://youtu.be/osIa4TecYBQ)
+* [Intro to Express](https://youtu.be/EkWhTyvS-is)
+* [Vocab Review](https://youtu.be/x73xtu9tJT0)
