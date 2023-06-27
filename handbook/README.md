@@ -14,12 +14,10 @@ I expect the following:
 
 ## Course
 
-* [Schedule](/schedule.md)
 * [Policies](/posts/northwestern-mutual-policies)
 * [Stand-Up](/posts/sika-stand-up)
 * [Stand-Down](/posts/sika-stand-down)
 * [Surveys](/posts/sika-surveys)
-* [School Community](/posts/sika-school-community)
 
 ## Education Philosophy
 
@@ -36,7 +34,5 @@ I expect the following:
 * [Taking Screenshots](/posts/sika-screenshots)
 * [Naming Guidelines](/posts/naming-guidelines)
 * [How To Ask Questions](/posts/how-to-ask-questions)
-* [GitHub Codespaces](/posts/sika-github-codespaces)
 * [Codesandbox.io](/posts/sika-codesandbox)
 * [Build and Burn](/posts/build-and-burn)
-* [Discord Setup](/posts/sika-discord-setup)

@@ -20,18 +20,13 @@
 
 | Link | Description |
 | --- | --- |
-| [Intro to JavaScript #1](https://youtu.be/PCDw44kY130) | Ahmed teaches JavaScript |
-| [Intro to JavaScript #2](https://youtu.be/eN7X5Z16RF4) | Ahmed teaches JavaScript |
-| [JavaScript Prep Party](https://youtu.be/5G_ZkzQczHI) | Ahmed teaches JavaScript |
 | [Intro to JavaScript](https://youtu.be/kzW0VNBZCXg) | Kyle teaches JavaScript |
-| [Loops in JavaScript](https://www.youtube.com/watch?v=9on4BtTKyHc) | Jon Higger teaches loops |
 | [JavaScript Functions](https://youtu.be/R4YLog2anVw) | Parameters, arguments, definitions, invocations, syntax |
 | [Variable Scoping](https://youtu.be/rStkMQDiLeY) | Lesson on scopes |
 | [Back to Basics: Programming](https://youtu.be/iV2oCPYSO1A) | I/O, browsers, data types |
 | [Back to Basics: Programming Concepts](https://youtu.be/GfAeoX6L8HU) | Values, statements, declarations, expressions |
 | [Back to Basics: Boolean Expressions and Iteration](https://youtu.be/lIs9U3jDNaA) | Booleans, `map` and `forEach` |
 | [Back to Basics: Functions](https://youtu.be/wZDJDUDjRcw) | Function syntax and usage |
-| [Functions](https://www.youtube.com/watch?v=5K6oRkVq750) | Kyle teaches functions |
 | [ES Modules](https://youtu.be/l9PCXMvj878) | How modules work in JS |
 | [Procedural Programming](https://youtu.be/dZ3gxtejQVM) | Loops and conditionals, writing selection sort |
 
@@ -59,7 +54,6 @@
 | [Back to Basics: Higher-Order Functions 2](https://youtu.be/7w7lyg7LSMw) | Building higher-order functions from scratch |
 | [Candy Shop Review](https://youtu.be/zECY4Nkvg0E) | Review of all 3 candy shop exercises |
 | [Applicative Programming](https://youtu.be/0819g4wNnOY) | Kyle teaches JavaScript enumerables |
-| [JavaScript Applicatives](https://www.youtube.com/watch?v=9lUJhGY1qG8) | Jon Higger teaches JavaScript |
 
 ## Async
 
@@ -98,9 +92,6 @@
 | [JavaScript: Defensive Coding](https://www.youtube.com/watch?v=9on4BtTKyHc) | Kyle teaches defensive coding |
 | [Short Circuit Evaluation](https://youtu.be/jW6qzqGI6Vs) | Using `&&`, `||`, and `??` to do short-circuit evaluation |
 | [Useful JS Libraries](https://youtu.be/Yjty4pCJrmo) | `lodash`, `axios`, `date-fns`, `jquery` |
-| [Intro to TypeScript](https://youtu.be/C35RCicUQrY) | Simple annotations |
-| [Intro to TypeScript](https://youtu.be/mOSzVMCEZ0w) | |
-| [Typing objects and functions](https://youtu.be/HnfqPKZgSqs) | Deep dive into object and function types |
 
 ## TypeScript
 
@@ -130,7 +121,6 @@
 | Link | Description |
 | --- | --- |
 | [Intro to TypeScript](https://youtu.be/C35RCicUQrY) | Simple annotations |
-| [Intro to TypeScript](https://youtu.be/mOSzVMCEZ0w) | |
 | [Typing objects and functions](https://youtu.be/HnfqPKZgSqs) | Deep dive into object and function types |
 
 ## More Exercises

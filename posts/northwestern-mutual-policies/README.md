@@ -12,33 +12,13 @@ You expected to submit all diagnostics and surveys. You are not required to subm
 
 Teaching a Zoom chat with a bunch of black squares is exhausting. As a courtesy to me, please keep your camera on unless you have a specific reason not to.
 
-## Schedule
-
-The [current schedule](/schedule) is posted, but is just an approximation and will probably change based on performance and feedback. Expect a formal announcement at the start of each activity.
-
 ## Questions
 
 * In lessons: No need to wait for a specific Q&A time, asking questions by voice or Zoom chat at any point in the lesson is encouraged!
-* Use `#the-queue` for technical questions. Note that you are encouraged to read and attempt to answer each other's questions!
 * Use DMs for personal questions
 
 Use [how to ask questions](/posts/how-to-ask-questions) for advice on phrasing questions.
 
 ## Submitting
 
-Use the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSc5xLIjjL4mXtibHCL21D2XtDp7sNIlR6ukV3CNPhE2peRfeA/viewform?usp=sharing) to get feedback on an exercise or question set. Remember to submit a publicly visible URL for GitHub, CodeSandbox, or a deployed site, not a private or Git URL.
-
-When submitting questions, observe the following formatting:
-
-```
-> Question prompt goes here
-
-Your answer goes here, including any code:
-
-'''ts (except use `backticks` instead of 'apostrophes')
-'''
-
-> Next question prompt here
-
-Next answer here
-```
+Use the [submission form](https://forms.gle/fage8FMat1RwP1vP7) to get feedback on an exercise or question set. Remember to submit a publicly visible URL for GitHub, CodeSandbox, or a deployed site, not a private or Git URL.
