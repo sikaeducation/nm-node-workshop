@@ -8,7 +8,7 @@ In this course, you'll learn how to:
 
 Please refer to the [Course Handbook](/handbook) for information about how to make the most of this course.
 
-Submit work using the [submission form](https://forms.gle/fage8FMat1RwP1vP7)
+Submit work to kyle@sikaeducation.com.
 
 ## Course Content
 
