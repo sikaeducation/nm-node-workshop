@@ -21,4 +21,4 @@ Use [how to ask questions](/posts/how-to-ask-questions) for advice on phrasing q
 
 ## Submitting
 
-Use the [submission form](https://forms.gle/fage8FMat1RwP1vP7) to get feedback on an exercise or question set. Remember to submit a publicly visible URL for GitHub, CodeSandbox, or a deployed site, not a private or Git URL.
+Email kyle@sikaeducation.com to get feedback on an exercise or question set. Remember to submit a publicly visible URL for GitHub, CodeSandbox, or a deployed site, not a private or Git URL.
